@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.vosipov.jhipster_rest"
+    },
+    "jhipsterVersion": "4.3.0",
+    "baseName": "jHipsterRESTExample",
+    "packageName": "com.vosipov.jhipster_rest",
+    "packageFolder": "com/vosipov/jhipster_rest",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "796cf86190d84cf500f212ae7844f20b0d3487d1",
+    "enableTranslation": false
+  }
+}

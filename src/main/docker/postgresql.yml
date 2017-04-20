@@ -1,0 +1,11 @@
+version: '2'
+services:
+    jhipsterrestexample-postgresql:
+        image: postgres:9.6.2
+        # volumes:
+        #     - ~/volumes/jhipster/jHipsterRESTExample/postgresql/:/var/lib/postgresql/
+        environment:
+            - POSTGRES_USER=jHipsterRESTExample
+            - POSTGRES_PASSWORD=
+        ports:
+            - 5432:5432
