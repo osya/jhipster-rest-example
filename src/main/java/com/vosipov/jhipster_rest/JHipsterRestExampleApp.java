@@ -82,3 +82,5 @@ public class JHipsterRestExampleApp {
             env.getActiveProfiles());
     }
 }
+
+//TODO: Upgrade to JDK 9 after IntelliJ IDEA 2017.3 released
