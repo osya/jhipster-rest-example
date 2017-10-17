@@ -1,6 +1,8 @@
 # jHipsterRESTExample
 This application was generated using JHipster 4.3.0, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.3.0](https://jhipster.github.io/documentation-archive/v4.3.0).
 
+[![Build Status](https://travis-ci.org/osya/jhipster-rest-example.svg?branch=master)](https://travis-ci.org/osya/jhipster-rest-example)
+
 ## Development
 
 To start your application in the dev profile, simply run:
