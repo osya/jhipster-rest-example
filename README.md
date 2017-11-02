@@ -1,7 +1,7 @@
 # jHipsterRESTExample
 This application was generated using JHipster 4.3.0, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.3.0](https://jhipster.github.io/documentation-archive/v4.3.0).
 
-[![Build Status](https://travis-ci.org/osya/jhipster-rest-example.svg?branch=master)](https://travis-ci.org/osya/jhipster-rest-example)
+[![Build Status](https://travis-ci.org/osya/jhipster-rest-example.svg?branch=master)](https://travis-ci.org/osya/jhipster-rest-example) [![Coverage Status](https://coveralls.io/repos/github/osya/jhipster-rest-example/badge.svg?branch=master)](https://coveralls.io/github/osya/jhipster-rest-example?branch=master)
 
 ## Development
 

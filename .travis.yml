@@ -28,6 +28,8 @@ script:
   - chmod +x gradlew
   - ./gradlew clean test
   - ./gradlew bootRepackage -Pprod -x test
+after_success:
+  - ./gradlew cobertura coveralls
 notifications:
   webhooks:
     on_success: change  # options: [always|never|change] default: always
