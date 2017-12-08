@@ -1,7 +1,5 @@
 # jHipsterRESTExample
-This application was generated using JHipster 4.3.0, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.3.0](https://jhipster.github.io/documentation-archive/v4.3.0).
-
-[![Build Status](https://travis-ci.org/osya/jhipster-rest-example.svg?branch=master)](https://travis-ci.org/osya/jhipster-rest-example) [![Coverage Status](https://coveralls.io/repos/github/osya/jhipster-rest-example/badge.svg?branch=master)](https://coveralls.io/github/osya/jhipster-rest-example?branch=master)
+This application was generated using JHipster 4.11.1, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.11.1](http://www.jhipster.tech/documentation-archive/v4.11.1).
 
 ## Development
 
@@ -12,19 +10,7 @@ To start your application in the dev profile, simply run:
 
 For further instructions on how to develop with JHipster, have a look at [Using JHipster in development][].
 
-### Using angular-cli
 
-You can also use [Angular CLI][] to generate some custom client code.
-
-For example, the following command:
-
-    ng generate component my-component
-
-will generate few files:
-
-    create src/main/webapp/app/my-component/my-component.component.html
-    create src/main/webapp/app/my-component/my-component.component.ts
-    update src/main/webapp/app/app.module.ts
 
 ## Building for production
 
@@ -67,19 +53,19 @@ Then run:
 
     docker-compose -f src/main/docker/app.yml up -d
 
-For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`yo jhipster:docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
+For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`jhipster docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
 
 ## Continuous Integration (optional)
 
-To configure CI for your project, run the ci-cd sub-generator (`yo jhipster:ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
+To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
 
-[JHipster Homepage and latest documentation]: https://jhipster.github.io
-[JHipster 4.3.0 archive]: https://jhipster.github.io/documentation-archive/v4.3.0
+[JHipster Homepage and latest documentation]: http://www.jhipster.tech
+[JHipster 4.11.1 archive]: http://www.jhipster.tech/documentation-archive/v4.11.1
 
-[Using JHipster in development]: https://jhipster.github.io/documentation-archive/v4.3.0/development/
-[Using Docker and Docker-Compose]: https://jhipster.github.io/documentation-archive/v4.3.0/docker-compose
-[Using JHipster in production]: https://jhipster.github.io/documentation-archive/v4.3.0/production/
-[Running tests page]: https://jhipster.github.io/documentation-archive/v4.3.0/running-tests/
-[Setting up Continuous Integration]: https://jhipster.github.io/documentation-archive/v4.3.0/setting-up-ci/
+[Using JHipster in development]: http://www.jhipster.tech/documentation-archive/v4.11.1/development/
+[Using Docker and Docker-Compose]: http://www.jhipster.tech/documentation-archive/v4.11.1/docker-compose
+[Using JHipster in production]: http://www.jhipster.tech/documentation-archive/v4.11.1/production/
+[Running tests page]: http://www.jhipster.tech/documentation-archive/v4.11.1/running-tests/
+[Setting up Continuous Integration]: http://www.jhipster.tech/documentation-archive/v4.11.1/setting-up-ci/
 
 
