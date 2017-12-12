@@ -220,4 +220,5 @@ compileJava.dependsOn processResources
 processResources.dependsOn cleanResources,bootBuildInfo
 bootBuildInfo.mustRunAfter cleanResources
 
-//TODO: Upgrade to JDK 9
+// TODO: Upgrade to JDK 9
+// TODO: Replace JHIPSTER_SLEEP with Healthcheck & depends_on
